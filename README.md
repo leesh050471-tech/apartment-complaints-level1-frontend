@@ -16,3 +16,8 @@ cp .env.example .env.local
 npm install
 npm run dev
 ```
+
+## 배포 주소
+- 화면(Vercel): https://apartment-complaints-level1-fronten-delta.vercel.app
+- 백엔드(Render): https://apartment-complaints-level1-backend.onrender.com
+- 백엔드 저장소: https://github.com/leesh050471-tech/apartment-complaints-level1-backend
